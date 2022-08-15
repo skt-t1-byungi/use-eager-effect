@@ -1,0 +1,31 @@
+{
+    "name": "use-eager-effect",
+    "publishConfig": {
+        "access": "public"
+    },
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react",
+        "hooks",
+        "useEffect",
+        "eager"
+    ],
+    "author": {
+        "name": "byungi",
+        "email": "tiniwz@gmail.com",
+        "url": "https://github.com/byungi/"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.17",
+        "react": "^18.2.0",
+        "typescript": "^4.7.4"
+    },
+    "peerDependencies": {
+        "react": "^18.2.0"
+    }
+}
